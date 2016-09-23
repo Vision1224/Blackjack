@@ -1,0 +1,13 @@
+First Game started at:Sat Jan 30 19:14:46 MST 2016
+On [Player] sdkalfjas's turn, [11] the mouse was hovering over [btn_playerHit] with sdkalfjas's [$1000]
+On [Player] sdkalfjas's turn, [12] the mouse was hovering over [btn_playerHit] with sdkalfjas's [$1000]
+On [Player] sdkalfjas's turn, [18] the mouse was hovering over [btn_playerHit] with sdkalfjas's [$1000]
+On [Player] sdkalfjas's turn, [19] the mouse was hovering over [btn_playerHit] with sdkalfjas's [$1000]
+On [Player] sdkalfjas's turn, [20] the mouse was hovering over [btn_playerHit] with sdkalfjas's [$1000]
+On [Player] sdkalfjas's turn, [21] the mouse was hovering over [btn_playerHit] with sdkalfjas's [$1000]
+On [NOBODY's] [25] the mouse was hovering over [btn_startNewGame] with sdkalfjas's [$1100] AND a's [$900]
+On [NOBODY's] [26] the mouse was hovering over [btn_startNewGame] with sdkalfjas's [$1100] AND a's [$900]
+On [NOBODY's] [27] the mouse was hovering over [btn_startNewGame] with a's [$1000] AND sdkalfjas's [$1000]
+On [NOBODY's] [29] the mouse was hovering over [btn_startNewGame] with a's [$1000] AND sdkalfjas's [$1000]
+On [Player] sdkalfjas's turn, [33] the mouse was hovering over [btn_playerStay] with sdkalfjas's [$1000]
+On [Dealer] a's turn, [35] the mouse was hovering over [btn_dealerHit] with a's [$1000]

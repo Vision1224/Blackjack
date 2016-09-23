@@ -1,0 +1,9 @@
+First Game started at:Fri Sep 23 08:55:48 MDT 2016
+On [Player] Josh's turn, [5] the mouse was hovering over [btn_playerHit] with Josh's [$1000]
+On [NOBODY's] [11] the mouse was hovering over [btn_startNewGame] with Josh's [$900] AND Damian's [$1100]
+On [NOBODY's] [12] the mouse was hovering over [btn_startNewGame] with Josh's [$900] AND Damian's [$1100]
+On [NOBODY's] [13] the mouse was hovering over [btn_startNewGame] with Josh's [$900] AND Damian's [$1100]
+On [Player] Damian's turn, [17] the mouse was hovering over [btn_playerStay] with Damian's [$1100]
+On [Dealer] Josh's turn, [24] the mouse was hovering over [btn_dealerHit] with Josh's [$900]
+On [Dealer] Josh's turn, [25] the mouse was hovering over [btn_dealerHit] with Josh's [$900]
+On [NOBODY's] [29] the mouse was hovering over [btn_startNewGame] with Damian's [$1200] AND Josh's [$800]

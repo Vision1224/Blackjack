@@ -1,0 +1,7 @@
+First Game started at:Thu Apr 23 13:53:39 MDT 2015
+On [Player] brian's turn, [6] the mouse was hovering over [btn_playerHit] with brian's [$1100]
+On [Dealer] brian's turn, [10] the mouse was hovering over [btn_dealerHit] with brian's [$1000]
+On [Dealer] brian's turn, [11] the mouse was hovering over [btn_dealerStay] with brian's [$1000]
+On [NOBODY's] [12] the mouse was hovering over [btn_startNewGame] with ,kmklm's [$1100] AND brian's [$900]
+On [NOBODY's] [13] the mouse was hovering over [btn_startNewGame] with ,kmklm's [$1100] AND brian's [$900]
+On [NOBODY's] [14] the mouse was hovering over [btn_startNewGame] with ,kmklm's [$1100] AND brian's [$900]
